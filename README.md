@@ -13,7 +13,12 @@ utilizando Databricks.
 Job automatizado no Databricks com execução diária às 13:00.
 
 ## 📂 Evidências
-Ver Imagens de execução do pipeline.
+
+### Execução do Job - Parte 1
+![Sucesso Job 1](evidencias/job_sucesso.png)
+
+### Execução do Job - Parte 2
+![Sucesso Job 2](evidencias/job_sucesso_2.png)
 
 ## 🛠 Tecnologias
 - Apache Spark
