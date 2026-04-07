@@ -20,3 +20,6 @@ Ver Imagens de execução do pipeline.
 - Delta Lake
 - Databricks
 - Python
+
+## Aluno
+- Caio Ferreira Lira de Oliveira
